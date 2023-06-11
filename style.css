@@ -1,0 +1,14 @@
+h1 {
+    font-family: cursive;
+    font-style:italic;
+    font-weight: 400;
+}
+
+h4{
+    font-family: Times;
+}
+
+#camera{
+    width:500px;
+    height: 400px;
+}
